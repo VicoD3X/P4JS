@@ -317,6 +317,7 @@ formulaire.addEventListener("submit", validate)
 //////////////////////////////////////////////////////////
 
 
+
 //----------------------------------------------------
 // Fermeture du form, ouverture pop-up
 
